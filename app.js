@@ -1,8 +1,8 @@
 import React from "react";
 import './style.css';
-import carro from "./carro"
+import carro from "./carro";
 
-import default Function app(){
+export default function app(){
   return(
 <div>
 

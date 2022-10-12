@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default Function carro(props){
+export default function carro(props){
   return(
     <div>
     <h2> soy un carro modelo(props.marca)</h2>
